@@ -7,4 +7,14 @@ i) Download the master-copy.</br>
 ii) Unzip the file and extract the file to your desired directory.</br>
 iii) Open Android Studio and go to File>Open then import the file.</br>
 iv) Run the file in your emulator of conected devices.</br>
-v) Have Fun!!!
+v) Have Fun!!!</br>
+</br></br>
+<b>Task Assignment<b></br>
+  <ul>
+    <li>Taufiq - Software Developer</li>
+    <li>Adam - Software Developer</li>
+    <li>Alfin - User Interface Design</li>
+    <li>Faisal - Software Testing</li>
+    <li>Azim - Software Analysis</li>
+    </ul>
+ 
